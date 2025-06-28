@@ -1,6 +1,6 @@
 # Discord Server Admin Dashboard (Frontend Only)
 
-This project is a frontend-only simulation of a Discord server administration dashboard, built with Next.js 14 (App Router), Tailwind CSS, and React Hooks/Context API. It demonstrates a custom UI implementation without relying on external component libraries, focusing on responsiveness, accessibility, and a Discord-like aesthetic.
+This project is a frontend-only simulation of a Discord server administration dashboard, built with Next.js 14 (App Router), Tailwind CSS, and Context API. It demonstrates a custom UI implementation without relying on external component libraries, focusing on responsiveness, accessibility, and a Discord-like aesthetic.
 
 ## Approach
 
@@ -28,25 +28,22 @@ The dashboard is structured around Next.js's App Router, with distinct pages for
 ## How to Run the Project
 
 1.  **Clone the repository:**
-    \`\`\`bash
+    ```bash
     git clone <repository-url>
     cd discord-server-admin-dashboard
-    \`\`\`
+    ```
 2.  **Install dependencies:**
-    \`\`\`bash
+    ```bash
     npm install
     # or
     yarn install
-    \`\`\`
+    ```
 3.  **Run the development server:**
-    \`\`\`bash
+    ```bash
     npm run dev
     # or
     yarn dev
-    \`\`\`
+    ```
 4.  **Open in your browser:**
     The application will be accessible at `http://localhost:3000`.
 
-## Optional: Screenshots
-
-(Placeholder for screenshots of the dashboard on different devices and themes)
