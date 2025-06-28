@@ -34,7 +34,7 @@ function Navbar() {
           <Menu className="h-6 w-6" />
         </Button>
         <Link href="/" className="flex items-center gap-2 text-lg font-semibold">
-          <Image src="/placeholder.svg?height=24&width=24" alt="Discord Logo" width={24} height={24} />
+          <Image src="/logo.png" alt="Discord Logo" width={24} height={24} />
           <span className="hidden sm:inline text-gray-900 dark:text-white">Discord Admin</span>
         </Link>
       </div>
@@ -59,7 +59,7 @@ function Navbar() {
         </Button>
         <Link href="#" className="flex items-center gap-2">
           <Image
-            src="/placeholder.svg?height=32&width=32"
+            src="/logo.png"
             width={32}
             height={32}
             className="rounded-full border border-gray-200 dark:border-discord-border-dark"

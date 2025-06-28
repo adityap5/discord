@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useMemo } from "react"
-import Image from "next/image"
 import { Plus, Search, ArrowUp, ArrowDown } from "lucide-react"
 import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/Card"
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from "../../components/ui/Table"
