@@ -6,7 +6,7 @@ import { cn } from "../../lib/utils"
 import { motion } from "framer-motion"
 
 function DashboardLayout({ children }) {
-  const { isSidebarOpen } = useSidebar()
+  // const { isSidebarOpen } = useSidebar()
 
   return (
     <div className="flex min-h-screen bg-gray-50 dark:bg-discord-dark-bg">
