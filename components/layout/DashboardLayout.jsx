@@ -1,7 +1,7 @@
 "use client"
 import { Navbar } from "./Navbar"
 import { Sidebar } from "./Sidebar"
-import { useSidebar } from "../../context/SidebarContext"
+// import { useSidebar } from "../../context/SidebarContext"
 import { cn } from "../../lib/utils"
 import { motion } from "framer-motion"
 
