@@ -1,5 +1,5 @@
 "use client"
-
+import React from 'react'
 import { useState } from "react"
 import { Trash2 } from "lucide-react"
 import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/Card"

@@ -1,4 +1,5 @@
 "use client"
+import React from 'react'
 import { Users, MessageSquare, Shield, Activity } from "lucide-react"
 import { MetricCard } from "../../components/dashboard/MetricCard"
 import { Chart } from "../../components/ui/Chart"
